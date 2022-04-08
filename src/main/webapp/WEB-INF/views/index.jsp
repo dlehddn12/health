@@ -12,8 +12,11 @@
 
 </head>
 <body>
+<div>
+	<li>이동우 바보</li>
+</div>
 	<nav id="nav3">
-    <a href="/">헬스해 듀오</a>
+    <a href="/">헬스해듀오</a>
     <ul>
       <li><a href="">헬스장찾기</a></li>
       <li><a href="#">pt찾기</a></li>
